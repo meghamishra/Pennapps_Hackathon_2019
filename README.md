@@ -1,6 +1,6 @@
 ## Pennapps_Hackathon_2019
 
-## Ez Pz 
+## Project Title : Ez Pz 
 
 ## By: Megha Mishra, Sadhana Ravoori, Vikas Shankarathota
 
