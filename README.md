@@ -1,7 +1,8 @@
 ## Pennapps_Hackathon_2019
 
 ## Ez Pz 
-#By: Megha Mishra, Sadhana Ravoori, Vikas Shankarathota
+
+## By: Megha Mishra, Sadhana Ravoori, Vikas Shankarathota
 
 ## What it does
 Upon making a keyword search for a Youtube video, the application scrapes data for the top videos and the comment section as well. Using natural language processing, we are able to rank the videos based on what people wrote in the comments section. Our algorithm ensures that videos of higher scores were understood by more people, had concepts explained correctly, and were popular on the platform.
