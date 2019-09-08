@@ -1,0 +1,8 @@
+{% csrf_token %}
+Ez Pz ranked videos
+
+<ul>
+{% for x in list_of_videos %}
+	<li><a href={{x}}>{{x}}</a></li>
+{% endfor %}
+</ul>

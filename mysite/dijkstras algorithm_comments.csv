@@ -1,0 +1,10 @@
+Video ID,Title,Comment,Comment_Likes
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,Going from Vertex B to F without processing other neighbors of A is a digression from BFS approach. More often Dijkstra is considered BFS with greedy approach.,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,Very helping,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,All examples i found on YT start from the vertex a (the very first vertex) and go to the z(the last one that is located last on the right). What if the starting point is a middle vertex? Shall we go through all the paths even those who are left even our end is on the right?,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,This is an outstanding video. The only example or scenario that seems to be missing is how to manage/make a decision when you have two (2) edges from the same node (so two different path options from the same node) that cost the same...e.g. going from F to C or from F to D and they both cost 40.,1
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,thankyou very much..  i hope i pass my exam wkwkwk,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,So which is  the shortest path kindly,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,thankyou so much brother,0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,"This video is more than 10 years old, yet still so useful. Going into exams with more confidence after watching your explanation, thank you!",0
+8Ls1RqHCOPw,Graphs: Dijkstra&#39;s Algorithm,thanks.May Allah bless you.,0
